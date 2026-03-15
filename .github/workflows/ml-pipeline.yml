@@ -21,4 +21,4 @@ run: pip install -r requirements.txt
 
 - name: Model Dry Test
 run: |
-python -c "import torch; print('Model environment ready!')"
+python -c "import torch; print('Model environment ready !')"
